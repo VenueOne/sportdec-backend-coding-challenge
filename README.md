@@ -25,10 +25,10 @@ While you're free to choose the technologies you wish to use to complete this ch
 - Do not include any private details with your submission. We suggest you make any private values such as API keys configurable
 - As the Twitter API is rate limited retrieving tweets for a maximum of 10 projects will be sufficient
 - Publish your submission to Github as a repo, adding the following Sportdec team members as collaborators:
-  - `@dereklawless`
-  - `@onlydave`
-  - `@mkempf`
-
+ - @kevint590
+  - @ramonvicelli
+  - @gillesmedeiros
+  
 ## Resources
 ### GitHub API documentation
 - https://developer.github.com/v3/search/#search-repositories
